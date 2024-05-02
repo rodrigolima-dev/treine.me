@@ -68,6 +68,7 @@ main button {
     gap: 10px;
     color: white;
     margin-top: 40px;
+    cursor: pointer;
 }
 
 main {
